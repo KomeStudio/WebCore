@@ -19,25 +19,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [About](#-about)
-- [Sites in this repo](#-sites-in-this-repo)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Quick Start](#-quick-start)
-- [Branch Strategy](#-branch-strategy)
-- [Content Management (Sveltia CMS)](#-content-management-sveltia-cms)
-- [Deploy to Cloudflare Pages](#-deploy-to-cloudflare-pages)
-- [SEO Checklist](#-seo-checklist-for-each-site)
-- [Project Structure](#-project-structure)
-- [Environment & Secrets](#-environment--secrets)
-- [Contributing](#-contributing)
-- [Credits](#-credits)
-- [License](#-license)
-
----
-
 ## 🧭 About
 
 **Kome WebCore** is the shared website engine behind the Kome ecosystem. It combines **Astro** (via the **AstroWind** template), **Tailwind CSS**, **TypeScript** and **Sveltia CMS** (a Git-based headless CMS) into a fast, SEO-friendly static site that deploys for free on **Cloudflare Pages**.
@@ -212,9 +193,7 @@ Built on [AstroWind](https://github.com/onwidget/astrowind), [Astro](https://ast
 
 ## 📄 License
 
-Released under the **GPL-3.0** license. See [LICENSE](./LICENSE) for details.
-
-© 2026 Kome Studio
+Released under the **GPL-3.0** license. See [LICENSE](./LICENSE) for details. © 2026 Kome Studio
 
 ---
 
